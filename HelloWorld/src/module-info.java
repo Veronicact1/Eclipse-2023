@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author veronica
- *
- */
-module HelloWorld {
-}

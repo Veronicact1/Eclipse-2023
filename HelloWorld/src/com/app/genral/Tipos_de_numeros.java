@@ -1,3 +1,4 @@
+package com.app.genral;
 
 public class Tipos_de_numeros {
 

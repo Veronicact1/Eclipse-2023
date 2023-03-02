@@ -1,3 +1,7 @@
+package com.app.genral;
+import com.app.ejercicios.Avion;
+import com.app.ejercicios.Coche;
+import com.app.f2.Bicicleta;
 
 public class Main {
 
@@ -14,6 +18,21 @@ public class Main {
 		System.out.println(b+c+d);
 		c=91;
 		System.out.printf("%d+%d+%d=%d", b,c,d,b+c+d).println();
+	}
+
+	public static void invocarParar(Coche lexus) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void invocarParar(Avion boeing) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void invocarParar(Bicicleta bh) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

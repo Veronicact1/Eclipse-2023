@@ -1,4 +1,6 @@
-public class Profesor extends Persona{
+package com.clase.info;
+
+public class Profesor extends Persona {
 	protected int numeroDeEdadesEstudiantes;
 	protected int sumaDeEdadesEstudiantes;
 	protected int estudiantesEdadMedia;
@@ -36,8 +38,5 @@ public class Profesor extends Persona{
 	public int mostrarID() {
 		// TODO Auto-generated method stub
 		return 0;
-		System.out.println("%d-%f", getId(),getNumeroDeEdadesEstudiantes());
-	}
-	
-	
+	}	
 }

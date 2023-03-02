@@ -1,3 +1,5 @@
+package com.app.ejercicios;
+import com.app.f2.Bicicleta;
 
 public class MainVehiculo {
 

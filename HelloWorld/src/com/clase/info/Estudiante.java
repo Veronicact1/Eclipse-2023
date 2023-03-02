@@ -1,3 +1,4 @@
+package com.clase.info;
 
 public class Estudiante  extends Persona {
 	
@@ -7,7 +8,7 @@ public class Estudiante  extends Persona {
 		// TODO Auto-generated constructor stub
 	}
 	
-	private int numeroNotas;
+	private static int numeroNotas;
 	private int sumaNotas;
 	private float notaMedia=sumaNotas/numeroNotas;
 	
@@ -29,7 +30,7 @@ public class Estudiante  extends Persona {
 		else agregarNuevaNota();
 	}
 	public static Estudiante crearEstudiante() {
-		return new Estudiante();
+		return new Estudiante(numeroNotas, numeroNotas, numeroNotas);
 	}
 	
 	

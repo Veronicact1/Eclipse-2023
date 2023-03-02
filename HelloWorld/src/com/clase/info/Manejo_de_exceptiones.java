@@ -1,3 +1,4 @@
+package com.clase.info;
 
 public class Manejo_de_exceptiones {
 

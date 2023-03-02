@@ -1,4 +1,4 @@
-
+package com.clase.info;
 public class MainEstudiante {
 
 	public static void main(String[] args) {

@@ -1,5 +1,6 @@
+package com.clase.info;
 
-public abstract class Persona {
+public abstract class Persona implements PersonaInterfaz {
 	protected int id;
 	protected int edad;
 	protected int telefono;
