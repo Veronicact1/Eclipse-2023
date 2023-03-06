@@ -5,9 +5,6 @@ public class Animales implements SeresVivos {
 		public int velocidad;
 		// Metodo
 		public abstract void reactionar() {}
-		//constructors
-		
-		//getter&setter
 
 }
 
