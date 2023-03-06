@@ -4,8 +4,8 @@ public class Colibri extends Animales{
 
 	public static void main(String[] args) {
 		//Atributos
-		protected int numeroDePatas;
-		protected char color;
+		private int numeroDePatas;
+		private char color;
 		//Metodos
 		public void volar() {} 
 		public void cantar() {}
