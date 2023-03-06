@@ -4,7 +4,7 @@ public class Animales implements SeresVivos {
 		// Atribjuto
 		public int velocidad;
 		// Metodo
-		public abstract void reactionar() {}
+		public abstract void reactionar();
 
 }
 
