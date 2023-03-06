@@ -1,6 +1,6 @@
 package com.animales.examen3;
 
-public class Animales implements SeresVivos {
+public abstract class Animales implements SeresVivos {
 		// Atribjuto
 		public int velocidad;
 		// Metodo
