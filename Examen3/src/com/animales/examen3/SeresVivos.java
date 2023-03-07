@@ -4,9 +4,11 @@ public interface SeresVivos {
 
 	public static void main(String[] args) {
 		//atributo
-		public int longetividad;
+		int longetividad;}
 		// Metodo
-		public void vijilancia;
+	public static void vijilancia() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

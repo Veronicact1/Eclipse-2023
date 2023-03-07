@@ -5,6 +5,19 @@ public abstract class Animales implements SeresVivos {
 		public int velocidad;
 		// Metodo
 		public abstract void reactionar();
+		//Constructor
+		protected Animales(int velocidad) {
+			this.velocidad = velocidad;
+		}
+		//getter and setter
+		public int getVelocidad() {
+			return velocidad;
+		}
+
+		public void setVelocidad(int velocidad) {
+			this.velocidad = velocidad;
+		}
+		
 
 }
 
