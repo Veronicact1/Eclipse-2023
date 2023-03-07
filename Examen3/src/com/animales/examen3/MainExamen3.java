@@ -3,7 +3,7 @@ package com.animales.examen3;
 public class MainExamen3 {
 	// TODO Auto-generated method stub
 	public void main(String[] args) {
-	Delfin white = new Delfin (300,200,5);
+	Delfin white = new Delfin(300,200,5);
 	Leopardo hembra = new Leopardo (250,true,"dosColores");
 	Colibri green = new Colibri (70,2,"greenBlue");
 	MainExamen3.invocarReactionar(white);
